@@ -1,4 +1,4 @@
-# **Java - Conversão de Temperatura: Celsius para Fahrenheit** 🌡️
+# **Conversão de Temperatura em JAVA: Celsius para Fahrenheit** 🌡️
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://lnkd.in/eWWU9iz7)
 
